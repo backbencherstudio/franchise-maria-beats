@@ -1,5 +1,5 @@
 import React from "react";
-import SocialMedia from "../assets/Social Media.png";
+import SocialMedia from "../assets/socialmedia.png";
 import Logo from "../assets/footer-logo.png";
 
 export default function Footer() {
